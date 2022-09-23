@@ -11,3 +11,10 @@
 Выполнена командаgit push origin master
 Выполнено слияние веток main и master на github
 Добавлен файл .gitignore
+Добавлен файл Блок-схема.vsdx
+Создано консольное приложение (dotnet new console)
+Написан код в файле Program.cs
+git add .
+git commit
+git pugh
+...
