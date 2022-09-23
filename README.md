@@ -10,3 +10,4 @@
 Выполнена команда git commit -m git commit -m "Add Контрольная работа.png"
 Выполнена командаgit push origin master
 Выполнено слияние веток main и master на github
+Добавлен файл .gitignore
